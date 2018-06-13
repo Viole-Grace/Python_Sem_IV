@@ -1,0 +1,3 @@
+This file is uncensored.
+Each four letter word must be censored.
+Check the file with variant size inputs.
