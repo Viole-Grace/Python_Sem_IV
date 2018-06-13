@@ -1,3 +1,7 @@
+#Sample is a user-defined Package. Check files main.py and stack.py to get a better understanding of what the package does
+
+#########################################################################################################################################################
+
 import Sample
 #word=raw_input("Enter a string : ")
 while True:
