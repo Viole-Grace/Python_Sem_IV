@@ -1,2 +1,2 @@
 # Python_Sem_IV
-Solution of Python Programming Questions of the Question Bank for Sem IV SEE.
+Question Bank solutions in PYTHON,covered in Sem IV SEE
